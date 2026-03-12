@@ -1,0 +1,71 @@
+MINOR: Music Science and Technology Minor
+URL: https://catalog.tulane.edu/liberal-arts/music/music-science-technology-minor/
+
+=== FULL REQUIREMENTS TEXT ===
+Tulane's Music Science and Technology Minor Curriculum allows students to explore intersections between music, engineering, production, and computer programming, with a focus on the creative applications of technology in the creation of music. The program encourages creativity in technical research and in composition for various media and performance. Area objectives include developing innovative approaches to the scientific and artistic study of music composition, performance, and media, undertaking multidisciplinary research relevant to the creation and perception of music, and fostering an interdisciplinary culture between members of the fine arts, engineering, and science communities on campus.
+Our students undertake projects in music signal processing, sound synthesis and analysis, computer/electro-acoustic music composition, intermedia, music performance systems design, electronic music history, and music perception. Our expanding computer music composition facilities include a dedicated teaching laboratory with eight student computer workstations.  The music department maintains an up-to-date composition studio featuring professional level microphones, monitors, and controllers with 8.1 channel surround sound capabilities.
+Course List
+Course ID
+Title
+Credits
+Required Courses
+8-9
+MUSC 1000
+Fundamentals of Theory (*)
+OR
+MUSC 1510
+&
+APMS 1090
+Music Theory I
+and Musicianship Lab I
+(*)
+*Dependent on how the student tests in music theory in the first week of classes in the first year.
+APMS 2230
+Composition for Electronic Media I
+APMS 3230
+Composition for Electronic Media II
+Plus 4 of the following:
+11-13
+APMS 2320
+Music Recording Techniques I
+APMS 3330
+Music For Film
+APMS 3340
+The Creative Soundscape
+MUSC 1510
+&
+APMS 1090
+Music Theory I
+and Musicianship Lab I
+If taking MUSC 1000 for credit in the minor
+MUSC 1520
+&
+APMS 1100
+Music Theory II
+and Musicianship Lab II
+MUSC 2300
+Introduction to Computer Applications In Music
+MUSC 2310
+Electronic Music History
+MUSC 4400
+Music & Dsp
+1
+MUSC 4401
+Music and DSP II - Creative Sampling Techniques
+MUSC 4410
+Music Performance System
+MUSC 4420
+Algorithmic & Comp Music
+MUSC 4950
+Spec Topic In Musicology (Different topics may be repeated )
+3 credits max in APMS ensemble or instrument credit
+Total Credit Hours
+19-22
+Per university policy, students are not permitted to share credits between minors.
+Field of Study:
+MUST
+Catalog addenda note:
+Minor edits were made to this program on 5/30/2025,
+For more information, contact the
+School of Liberal Arts
+.

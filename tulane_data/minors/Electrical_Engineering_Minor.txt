@@ -1,0 +1,139 @@
+MINOR: Electrical Engineering Minor
+URL: https://catalog.tulane.edu/science-engineering/physics-engineering/electrical-engineering-minor/
+
+=== PREREQUISITES FOUND ===
+  - Prerequisites
+
+=== FULL REQUIREMENTS TEXT ===
+The Electrical Engineering
+minor
+will provide a foundation in the core principles of electrical engineering that can supplement engineering, science, and non-STEM majors at Tulane. Electrical engineering is a discipline that underlies the vast majority of our modern technological world, and students with the EE
+minor
+will be able to apply these skills in a broad range of fields, industries, and careers.
+Course List
+Course ID
+Title
+Credits
+Prerequisites
+MATH 1210
+&
+MATH 1220
+Calculus I
+and Calculus II
+8
+PHYS 1310
+&
+PHYS 1320
+General Physics I
+and General Physics II
+8
+BMEN 2020
+Computing Concepts & Applic (or another programming course with advisor approval)
+4
+or
+ENGP 2020
+Computing Concepts and Applications
+or
+CMPS 1100
+Foundations of Programming
+or
+CMPS 1500
+Intro to Computer Science I
+Total Credit Hours
+20
+Course List
+Course ID
+Title
+Credits
+Required Courses
+10
+ENGP 2010
+&
+ENGP 2011
+Electric Circuits
+and Electric Circuits Lab
+BMEN 3730
+Biomedical Signals and Systems
+or
+ENGP 3730
+Signals and Systems
+ENGP 3140
+Digital Logic Systems
+Electives (Choose 3)
+9
+PHYS 2350
+Modern Physics I
+PHYS 3630
+Electromagnetic Theory
+PHYS 3650
+Optics
+ENGP 2730
+Electronics
+or
+BMEN 2730
+Biomedical Electronics
+ENGP 3560
+Photonic Materials & Devices
+ENGP 3570
+Semiconductor Devices
+ENGP 3620
+MicroFab and Nanotech
+ENGP 3230
+Quantum information Sci & Eng
+or
+PHYS 3230
+Quantum Information Science & Engineering
+PHYS 3310
+Quantum Optics
+ENGP 3700
+Electrnc Prop of Materls
+or
+PHYS 3700
+Electronic Properties of Materials
+PHYS 4470
+Intro Quantum Mechanics
+BMEN 6170
+Biomedical Optics
+CENG 6140
+Electrochemistry
+or
+CENG 4140
+Electrochemistry
+ENGP 3160
+Probabilistic Systems and Signal Processing
+ENGP 3130
+Introduction to Power Systems
+ENGP 3380
+Materials for Energy
+ENGP 3180
+Introduction to Feedback Control and Control Theory
+or
+CENG 4500
+Chemical Process Control
+ENGP 2310
+Product and Experimental Design
+or
+BMEN 2310
+Product & Experimental Design
+CMPS 2300
+Intro to Comp Sys & Networking
+CMPS 3240
+Intro to Machine Learning
+CMPS 3250
+Theory of Computation
+CMPS 3280
+Information Theory
+CMPS 4750
+Computer Networks
+CMPS 3510
+Computer Organization
+CMPS 3160
+Introduction to Data Science
+Total Credit Hours
+19
+At least three courses (9 credits) counting toward the minor must not overlap with a student's major.
+Field of Study:
+ELEN
+For more information, contact the
+School of Science and Engineering
+.

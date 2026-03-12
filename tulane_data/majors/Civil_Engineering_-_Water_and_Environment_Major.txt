@@ -1,0 +1,399 @@
+MAJOR: Civil Engineering - Water and Environment Major
+URL: https://catalog.tulane.edu/science-engineering/river-coastal-science-engineering/civil-engineering-water-and-environment-major/
+
+=== FULL REQUIREMENTS TEXT ===
+Tulane’s schools play an important role in water nexus issues and sustainability of the Gulf Coast area – a setting experiencing rapidly changing environmental conditions and risks.  Prior to 2006, the university had civil engineering programs that had been in place for more than a century.  To resurrect the civil engineering discipline and address key needs for the region and the globe, this water-focused program allows students to immediately apply the concepts to their places of employment in the fields of water resources planning, design, operation and construction. Students will gain skills which will allow them to participate in the management, preservation and enhancement of river, watershed, and coastal environments, design and construct water control facilities, and join efforts to conserve and restore water-linked ecosystems and human systems.  Students will receive a broad education in complex, interdisciplinary water resources issues that will give them an advantage should they choose to undertake graduate work in the field.
+As such, we have designed a curriculum for the major that meets ABET engineering requirements.  The degree is not a broad, general civil engineering major as is offered by many other US universities.  Rather, it focuses on those civil engineering elements related to water and environment, utilizing the overall expertise of the Department of River-Coastal Science and Engineering and its strategic mission.  However, the curriculum is also designed to allow students to pursue a professional engineering license in the category of Civil Engineering - Water Resources.
+The degree requires 45 hours of course work from within the Department of River-Coastal Science and Engineering department, 48 hours of additional engineering, math, chemistry, biology and physics coursework, completion of the university required Newcomb-Tulane Core Curriculum coursework and 9 hours of student-selected electives for a total of a minimum of 125 credit hours.
+Core Curriculum for Civil Engineering - Water and Environment
+The Civil Engineering - Water and Environment program of study includes a solid foundation in math and science, major-specific core material in river and coastal science and engineering, plus exposure to the humanities and social sciences. In order to graduate with a B.S.E. degree in Civil Engineering - Water and Environment, students must fulfill the following requirements:
+Major Specific
+:
+To graduate with the BSE in Civil Engineering-Water and Environment, the student should achieve a cumulative GPA of 2.8 or above in all courses that are required for the major. No more than one grade of D is allowed in required classes.  To ensure that they are on track to graduate, students enrolling in senior capstone design courses should have a cumulative GPA in required courses taken to that point of 2.8 or above.
+Newcomb-Tulane College (NTC) Core Curriculum:
+Courses that ensure attainment of basic competencies in writing, scientific inquiry, cultural knowledge, and interdisciplinary scholarship.
+Public Service:
+To meet this requirement for graduation, all students must complete two semesters of service. One of these semesters must be at the 2000 level or above. The first experience should be completed by the 2
+nd
+semester of the sophomore year.
+More information on the service learning requirements can be found
+here
+.
+Certain modifications to the freshmen program may be made by:
+Achievement of advanced standing through Advanced Placement Tests
+offered by the CEEB
+Use of advanced placement tests in mathematics and chemistry offered on campus during Orientation Week
+Submission of transcripts from other universities for equivalent courses taken prior to entering Tulane
+Major Advising
+To declare the major in Civil Engineering-Water and Environment, students
+will have to complete and sign the major declaration form that will also require signature from the
+RCSE department chair prior to submission to the Advising
+Office.
+Requirements
+See recommended course sequence below for semester-by-semester course planning.
+Foundational Requirements:
+Course List
+Course ID
+Title
+Credits
+General Biology Requirement
+EBIO 1010
+&
+EBIO 1015
+Diversity of Life
+and Diversity of Life Lab
+3-4
+or
+EBIO 1040
+Humans & Environmental Change
+General Chemistry Requirement
+CHEM 1070
+&
+CHEM 1075
+General Chemistry I
+and General Chemistry Lab I
+4
+CHEM 1080
+&
+CHEM 1085
+General Chemistry II
+and General Chemistry Lab II
+4
+Engineering Requirements
+ENGP 1410
+Statics
+3
+ENGP 2420
+Engineering Dynamics
+3
+ENGP 2430
+Mechanics of Materials
+3
+Mathematics Requirement
+MATH 1210
+&
+MATH 1211
+Calculus I
+and Calculus I Recitation
+4
+MATH 1220
+&
+MATH 1221
+Calculus II
+and Recitation for Calculus II
+4
+MATH 2210
+&
+MATH 2211
+Calculus III
+and Recitation for Calculus III
+4
+MATH 1230
+&
+MATH 1231
+Statistics For Scientists
+and Stats for Scientists Recitation
+4
+MATH 2240
+Intro To Applied Math
+4
+Physics Requirements
+PHYS 1310
+&
+PHYS 1311
+General Physics I
+and General Physics I Lab
+4
+PHYS 1320
+&
+PHYS 1321
+General Physics II
+and General Physics II Lab
+4
+Total Credit Hours
+48-49
+Major Specific Requirements:
+Course List
+Course ID
+Title
+Credits
+Core River-Coastal Science & Engineering Courses
+1
+RCSE 1040
+The Gulf Coast in 2100: Sustaining Healthy Ecosystems and Vibrant Community
+3
+RCSE 3010
+Water Resources Engineering  I
+3
+RCSE 3020
+Environmental Engineering I
+3
+RCSE 4010
+Water Resources Engineering II
+3
+RCSE 4020
+Environmental Engineering II
+3
+RCSE 4030
+Water Resources Engineering III
+3
+RCSE 4070
+River Structures
+3
+RCSE 4080
+Coastal Structures
+3
+RCSE 6050
+Geospatial Data Collection and Analysis for Environmental Applications
+3
+RCSE 6060
+The Role of Soils in Riparian Landscapes
+3
+RCSE 6800
+Intro to River Science & Eng
+3
+RCSE 6802
+Introduction to Coastal Science and Engineering
+3
+RCSE 4700
+Professional Development
+3
+RCSE 4720
+Capstone Design I
+3
+RCSE 4730
+Capstone Design II
+3
+River-Coastal Science & Engineering Electives
+**
+9
+Total Credit Hours
+54
+1
+To graduate with the BSE in Civil Engineering-Water and Environment, the student should achieve a cumulative GPA of 2.8 or above in all courses that are required for the major. No more than one grade of D is allowed in required classes. To ensure that they are on track to graduate, students enrolling in senior capstone design courses should have a cumulative GPA in required courses taken to that point of 2.8 or above.
+Recommended Course Sequence
+Plan of Study Grid
+Year 1
+Fall
+Credit Hours
+RCSE 1040
+The Gulf Coast in 2100: Sustaining Healthy Ecosystems and Vibrant Community
+3
+CHEM 1070
+&
+CHEM 1075
+General Chemistry I
+and General Chemistry Lab I
+4
+MATH 1210
+&
+MATH 1211
+Calculus I
+and Calculus I Recitation
+4
+PHYS 1310
+&
+PHYS 1311
+General Physics I
+and General Physics I Lab
+4
+TIDES
+1
+Credit Hours
+16
+Spring
+ENGL 1010
+or Tier 1 Writing Course
+3-4
+PHYS 1320
+&
+PHYS 1321
+General Physics II
+and General Physics II Lab
+4
+ENGP 1410
+Statics
+3
+MATH 1220
+&
+MATH 1221
+Calculus II
+and Recitation for Calculus II
+4
+Service Learning
+1-3
+Credit Hours
+15-18
+Year 2
+Fall
+NTC Requirement 1
+1
+3
+MATH 2210
+&
+MATH 2211
+Calculus III
+and Recitation for Calculus III
+4
+ENGP 2420
+Engineering Dynamics
+3
+ENGP 2430
+Mechanics of Materials
+3
+RCSE 6802
+Introduction to Coastal Science and Engineering
+3
+Credit Hours
+16
+Spring
+NTC Requirement 2
+1
+3
+CHEM 1080
+&
+CHEM 1085
+General Chemistry II
+and General Chemistry Lab II
+4
+MATH 2240
+&
+MATH 2241
+Intro To Applied Math
+and Recitation for Intro App Math
+4
+RCSE 3010
+Water Resources Engineering  I
+3
+RCSE 6800
+Intro to River Science & Eng
+3
+Credit Hours
+17
+Year 3
+Fall
+NTC Requirement 3
+1
+3
+RCSE 3020
+Environmental Engineering I
+3
+RCSE 4010
+Water Resources Engineering II
+3
+RCSE 6060
+The Role of Soils in Riparian Landscapes
+3
+MATH 1230
+&
+MATH 1231
+Statistics For Scientists
+and Stats for Scientists Recitation
+4
+Credit Hours
+16
+Spring
+NTC Requirement 4
+1
+3
+EBIO 1010
+&
+EBIO 1015
+or
+EBIO 1040
+Diversity of Life
+or Humans & Environmental Change
+3-4
+RCSE 4020
+Environmental Engineering II
+3
+RCSE 6030
+Water Resources Engineering III
+3
+RCSE 6050
+Geospatial Data Collection and Analysis for Environmental Applications
+3
+NTC Service Learning II
+0-1
+Credit Hours
+15-17
+Year 4
+Fall
+NTC Requirement 5
+1
+3
+RCSE 4700
+Professional Development
+3
+RCSE 4720
+Capstone Design I
+3
+RCSE 4070
+River Structures
+3
+River-Coastal Science & Engineering Elective 1
+**
+3
+Credit Hours
+15
+Spring
+NTC Requirement 6
+1
+3
+RCSE 4080
+Coastal Structures
+3
+RCSE 4730
+Capstone Design II
+3
+River Coastal Science & Engineering Elective 2
+**
+3
+River-Coastal Science & Engineering Elective 3
+**
+3
+Credit Hours
+15
+Total Credit Hours
+125-130
+1
+NTC Core requirements include one course that focuses on Race and Inclusion and one course that focuses on Global Perspectives. These requirements can be satisfied with courses that also satisfy Proficiency or Distribution requirements; therefore, up to 7 (and a minimum of 5) classes are required to complete the NTC Core requirements for Civil Engineering- Water & Environment students students. Additionally, a minimum of 120-credit hours is required for all Tulane degrees.
+**
+RCSE Elective Requirements
+At least three RCSE
+elective classes at the 3000-level or above must be taken.
+Non-RCSE STEM classes in environmental, computer science, or engineering topics may be accepted as substitutes if approved by the Department Chair.
+The following 4000 and 6000 level classes are currently available within RCSE to serve as electives:
+RCSE 4100
+Introduction to AI in Civil and Environmental Engineering (3 c.h.)
+RCSE 6040
+Coastal Marine Geology (3 c.h.)
+RCSE 6710
+Open Channel Flow (3 c.h.)
+RCSE 6810
+River and Stream Restoration (3 c.h.)
+RCSE 6820
+Introduction to River-Coastal Hydrologic and Hydraulic Modeling (3 c.h.)
+RCSE 6830
+River Mechanics & Management (3 c.h.)
+RCSE 6840
+Methods in River Sampling (3 c.h.)
+RCSE 6850
+Estuarine Processes (3 c.h.)
+RCSE 6860
+Environmental Data Analysis in the Anthropocene (3 c.h.)
+RCSE 6865
+Sea-Level Change (3 c.h.)
+RCSE 6870
+Hydroclimatology (3 c.h.)
+RCSE 6875
+Ecohydrology (3 c.h.)
+Students are encouraged to inquire with the
+Department Chair if they are unsure about a potential elective.
+Program String and Field of Study:
+SEBSE_UG, CEWR
+Catalog Addendum Note:
+This program was added to the catalog in July 2025.
+For more information, contact the
+School of Science and Engineering
+.

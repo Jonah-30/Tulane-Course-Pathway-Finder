@@ -1,0 +1,114 @@
+MAJOR: Computer Science Interdisciplinary Coordinate Major
+URL: https://catalog.tulane.edu/science-engineering/computer-science/computer-science-interdisciplinary-coordinate-major/
+
+=== PREREQUISITES FOUND ===
+  - Academic prerequisites
+
+=== FULL REQUIREMENTS TEXT ===
+The Tulane Computer Science Interdisciplinary Coordinate Major program helps students develop into leaders who are able to solve interdisciplinary problems using the tools of computer science and computing technology.
+What is a coordinate major?
+A
+coordinate major
+is an additional major designed to complement the primary one. To earn the interdisciplinary coordinate major in computer science, students must also complete a major in another discipline. Any undergraduate major at Tulane can serve as a primary major for the computer science interdisciplinary coordinate major. The undergraduate degree received by the student is determined by their primary major for students pursuing the Computer Science Interdisciplinary Coordinate Major.
+The Department of Computer Science also offers a standalone Bachelor of Science in Computer Science degree and an undergraduate certificate in Computer Science.
+Other computing courses
+Students interested in computing, but not in pursuing the coordinate major, are invited to consider our foundational course for non-majors,
+CMPS 1100
+Foundations of Programming (3 c.h.)
+.
+About the department
+More info about the Department of Computer Science and the program is available on the
+department webpage
+.
+Coursework
+The program comprises 10 courses. These courses total 31 credit hours and can be completed over five or more semesters.  The two starting classes for the program are
+CMPS 1500
+Intro to Computer Science I (4 c.h.)
+and
+CMPS 2170
+Intro to Discrete Math (3 c.h.)
+.
+The five core courses should be completed before the student's senior/final year at Tulane.
+Curriculum
+Course List
+Course ID
+Title
+Credits
+CMPS Core Courses
+CMPS 1500
+Intro to Computer Science I
+4
+CMPS 1600
+Intro to Computer Science II
+4
+CMPS 2170
+Intro to Discrete Math
+1
+3
+CMPS 2200
+Intro to Algorithms
+4
+CMPS 2300
+Intro to Comp Sys & Networking
+4
+Software Development Project
+CMPS 3300
+Software Studio
+3
+Electives
+Select three CMPS electives at or above 3000-level.
+ENGP 3140
+Digital Logic can count towards this CMPS Electives Requirement
+2
+9
+Total Credit Hours
+31
+1
+Same as MATH 2170 Intro To Discrete Math (3 c.h.)
+2
+Spring of Sophomore Year - In consultation with Faculty Advisor, choose three courses to satisfy the CMPS electives requirement.
+Academic requirements
+In order to graduate with the coordinate major in computer science, the student should achieve a cumulative GPA of 2.8 or above in all courses counting towards the CMPS coordinate major.
+Declaring the coordinate major
+To declare the coordinate major in computer science, please complete and sign the major declaration form and email it to Ms. Debbie Ramil (
+dramil1@tulane.edu
+), who will assign you a coordinate major advisor, obtain the corresponding advisor's and the departmental chairman's signatures for your form, and return the form to you. The completed form needs to be submitted to the Advising Office. When you declare your pursuit of the coordinate major, you should have already declared your primary major. When the major declaration form is processed, you will be added to the CS students mailing list. In order to enhance your CS education, you may also wish to join computing-focused student organizations, such as Cookies and Code, Women in Technology, and Girls Who Code. Their info is on WaveSync.
+Academic prerequisites
+The program is open to all students willing to put time and work into becoming computing professionals.
+It doesn’t assume that students have any previous computer science background.
+Many of our graduates have never programmed a computer before joining their first computer science class.
+The department holds several help sessions most days of the week to provide help to students when they have questions while working on computer science homework.
+Prior computing experience
+Advanced Placement (AP) computer science courses taken by a student in high school usually transfer toward overall college credit.
+(This is decided by the Tulane University Office of Undergraduate Admissions.) These courses do not have much overlap with our introductory courses and hence don’t count toward the coordinate major.
+If a student can demonstrate solid knowledge of the material covered in one of the required courses, after consultation with their faculty advisor, they can “skip” the required course and replace it with a CMPS elective of their choice instead.
+The minimum total number of completed CMPS courses should remain 10.
+Transfer coursework
+Transfer of college-level courses follows the standard Tulane credit transfer procedure. There is no special department-level limit on the number of courses that can transfer; we adhere to the limit established by Newcomb-Tulane College. In order for a course from another university to count for the coordinate major, it should match a corresponding Tulane course in content and/or complexity; mode of delivery (online, in-person, hybrid) doesn’t affect this evaluation. Computing courses on subjects not offered by Tulane might be transferable. Students should confirm with the Department of Computer Science whether the course would transfer as a coordinate major course before registering.
+Study abroad
+With advanced planning, it may be possible to study abroad and complete the coordinate major.
+Students should confirm with the Department of Computer Science whether and how the foreign courses would transfer before registering.
+Programming languages
+We often get asked what programming languages we teach.
+In fact, we teach principles, concepts, and problem-solving approaches rather than specific languages.
+In
+CMPS 1500
+Intro to Computer Science I (4 c.h.)
+, students learn Python.
+In
+CMPS 1600
+Intro to Computer Science II (4 c.h.)
+, students learn Java, C, and C++.
+The elective courses use a language that’s necessary to achieve the tasks of the course (e.g.
+Javascript, Scala, Ruby).
+Our successful students get used to learning new languages and are able to study the basics of any computer language on their own.
+Computer specifications
+Another common area of inquiry is about buying a computer.
+It is helpful and convenient to have a laptop.
+We don’t have a computer lab, and students work on their own laptops to complete most programming assignments.
+Model and make don’t matter; any modern laptop with Wi-Fi and a battery works.
+Field of Study:
+CSID
+For more information, contact the
+School of Science and Engineering
+.

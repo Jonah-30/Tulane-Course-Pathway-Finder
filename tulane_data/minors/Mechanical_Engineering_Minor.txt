@@ -1,0 +1,109 @@
+MINOR: Mechanical Engineering Minor
+URL: https://catalog.tulane.edu/science-engineering/physics-engineering/mechanical-engineering-minor/
+
+=== PREREQUISITES FOUND ===
+  - Prerequisites
+
+=== FULL REQUIREMENTS TEXT ===
+The Mechanical Engineering Minor complements various STEM and non-STEM majors at Tulane by offering a condensed exploration of mechanical systems. It includes the fundamental courses Statics, Dynamics, and Thermodynamics, providing essential knowledge in the field while allowing further exploration via electives. This minor enhances career prospects across industries including aerospace, renewable energy, and manufacturing, preparing students for diverse engineering challenges.
+Course List
+Course ID
+Title
+Credits
+Prerequisites
+MATH 1210
+&
+MATH 1220
+&
+MATH 2210
+Calculus I
+and Calculus II
+and Calculus III
+12
+PHYS 1310
+General Physics I
+4
+CHEM 1070
+&
+CHEM 1075
+General Chemistry I
+and General Chemistry Lab I
+4
+Total Credit Hours
+20
+Course List
+Course ID
+Title
+Credits
+Required Courses
+9
+ENGP 1410
+Statics
+ENGP 2420
+Engineering Dynamics
+CENG 2120
+Thermodynamics I
+or
+ENGP 2120
+Engineering Thermodynamics
+Electives (Choose 3)
+9
+ENGP 2430
+Mechanics of Materials
+CENG 2320
+Transport I: Fluids
+or
+BMEN 3440
+Biofluid Mechanics
+BMEN 2310
+Product & Experimental Design
+or
+ENGP 2310
+Product and Experimental Design
+CENG 3120
+Materials Science & Engr
+or
+ENGP 3120
+Materials Science and Engineering
+CENG 3390
+Transport II: Heat and Mass
+BMEN 3932
+Elements of  BMEN Design
+PHYS 3740
+Classical Mechanics
+ENGP 3720
+Mechanic Behavior of Materials
+ENGP 3180
+Introduction to Feedback Control and Control Theory
+or
+CENG 4500
+Chemical Process Control
+or
+BMEN 3730
+Biomedical Signals and Systems
+or
+ENGP 3730
+Signals and Systems
+ENGP 3620
+MicroFab and Nanotech
+BMEN 3650
+Biomechanics and Biotransport
+CENG 3110
+Thermodynamics II
+ENGP 2010
+&
+ENGP 2011
+Electric Circuits
+and Electric Circuits Lab
+ENGP 3380
+Materials for Energy
+MATH 4470
+Analyt Method Appl Math
+Total Credit Hours
+18
+At least three courses (9 credits) counting toward the minor must not overlap with a student's major.
+Field of Study:
+EPME
+For more information, contact the
+School of Science and Engineering
+.

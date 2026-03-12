@@ -1,0 +1,221 @@
+MAJOR: Digital Media Practices Coordinate Major
+URL: https://catalog.tulane.edu/liberal-arts/interdisciplinary-programs-coordinate-majors/digital-media-practices-coordinate-major/
+
+=== FULL REQUIREMENTS TEXT ===
+Tulane’s Digital Media Practices Program offers a coordinate major focused on the art and practice of digital storytelling. Courses in the program offer hands-on experience in Narrative and Documentary Filmmaking, Interactive Media, Game Studies, Podcasting, Digital Sound, Video Art, and Video Journalism. After completing introductory coursework, students choose an area of specialization leading to a 2-semester Capstone Project, beginning either Spring of their Junior year or Fall of their Senior year. Many students choose to write, produce, and direct their own short films. However, our program also encourages our students to think creatively about their capstone projects, whether these projects are narrative or documentary short films, full-length screenplays, multi-episode podcasts, radio dramas, interactive media exhibitions, experimental video games, web-based projects, or a combination of all these elements. The Digital Media Practices Program gives students the opportunity to work closely with experienced and supportive faculty interested in allowing students’ passion and vision to help to define their goals.
+The Coordinate Major in Digital Media Practices first requires students to declare a major in another discipline before declaring the DMPC coordinate major. The program is an interdisciplinary, 10-course program that can include classes from Digital Media Practices, Cinema Studies and Communication, Music, Theatre and Dance, Art, or English.
+The coordinate major in Digital Media Practices is an interdisciplinary, 30-credit program that can include courses in Digital Media Practices, Cinema Studies, Music, Theatre and Dance, Communication, Art, or English.
+Course List
+Course ID
+Title
+Credits
+Gateway Courses
+3
+Select 1 of the following:
+DMPC 1000
+Digital Media Practices
+DMPC 1110
+Introduction to Film Production Cultures
+COMM 1150
+Introduction to Cinema
+COMM 1250
+Introduction to Television
+COMM 1550
+Intro to New Media & Internet
+COMM 1650
+Introduction to Media Studies
+Digital Media Practice Foundations
+9
+Select 3 of the following; 2 must be DMPC Courses
+DMPC 2001
+Introduction to Digital Filmmaking
+Students must receive a C or better to advance to DMPC 2002 and DMPC 2003.
+DMPC 2002
+Narrative Filmmaking
+Students must receive a C or better to advance to DMPC 5550 Advanced Digital Filmmaking I.
+DMPC 2003
+Documentary Filmmaking
+Students must receive a C or better to advanced to DMPC 5550 Advanced Digital Filmmaking I.
+DMPC 2510
+Game Studio 1: Experimental Game Design
+DMPC 2600
+Personal Data Visualization
+DMPC 2700
+Introduction to Podcasting and Social Justice
+DMPC 2710
+Podcasting Production I
+ARST 1330
+Photo I: Digital
+ARST 1350
+Photo I: Analog and Digital
+ARST 1550
+Digital Arts I
+CMPS 1500
+Intro to Computer Science I
+CMPS 1600
+Intro to Computer Science II
+MUSC 2300
+Introduction to Computer Applications In Music
+THEA 1010
+Plays and Playwrights
+THEA 2110
+Acting I
+Context and Analysis
+Additionally, DMPC will accept any course listed in the Cinema Studies catalog for "Context and Analysis"
+6
+Select 2 of the following:
+DMPC 2500
+Game Studies
+DMPC 3850
+Theatrical Art and Dramatic Structure in Television
+AFRS 3350
+Black Music & Performance in New Orleans
+AFRS 4180
+African Cinema
+COMM 2450
+Topics Gender/Race/Class/Media
+COMM 2500
+Film and Society
+COMM 2700
+Visual Communication
+COMM 2823
+Special Topics
+COMM 3150
+Film Analysis
+*Communication core course. Must take pre-requisite.
+COMM 3310
+Comm for Feminism Activitism
+COMM 3510
+Environmental Comm
+COMM 3560
+History of Animation
+COMM 3600
+Documentary Film
+COMM 3650
+Feminist Doc & New Media
+COMM 4170
+U.S. Film History
+COMM 4350
+Gender and The Cinema
+COMM 4750
+New Media Theory
+COMM 4850
+Cinema Technology Modernity
+ENLS 4100
+Literature and Film
+ENLS 4445
+Black Literature, Film, and Media
+ENLS 4750
+New Media Theory
+HIST 3210
+Visual History & Filmmaking
+MUSC 2310
+Electronic Music History
+Advanced Practice Electives
+6
+Select 2 of the following, one of which must be in DMPC; additional courses from Context & Analysis can count as Electives
+DMPC 3000
+Screenwriting
+DMPC 3010
+Development: From Pitch to Picture
+DMPC 3020
+Directing Actors for Screen
+DMPC 3030
+TV & Film Sound Design
+DMPC 3040
+Lighting & Cinematography
+DMPC 3060
+Directing Workshop – The Actors’ Director in Process
+DMPC 3080
+Color Correction and Grading for Television and Film
+DMPC 3500
+Game Studio 2: Narrative and VR
+DMPC 3710
+Podcast Production 2
+DMPC 3750
+Media for Community Health and Well Being
+DMPC 3990
+Producing Media for Social Change
+DMPC 4910
+Independent Study
+DMPC 4560
+Internship
+ARST 2350
+Photography II: Expansive Practice
+ARST 2550
+Digital Arts II: Creative Computing
+ARST 3300
+Decolonizing the Camera
+ARST 3350
+Advanced Photography: Skills and Concepts
+ARST 3360
+Advanced Photography: Individual Projects
+ARST 3550
+Time-Based Media
+COMM 3610
+Alternative Journalism
+ENLS 3610
+Introduction to Creative Writing
+ENLS 4660
+Advanced Creative Non-Fiction Workshop
+APMS 2230
+Composition for Electronic Media I
+APMS 3230
+Composition for Electronic Media II
+APMS 3330
+Music For Film
+APMS 3340
+The Creative Soundscape
+MUSC 4400
+Music & Dsp
+MUSC 4401
+Music and DSP II - Creative Sampling Techniques
+MUSC 4410
+Music Performance System
+MUSC 4420
+Algorithmic & Comp Music
+SLAM 2020
+Financial Analysis and and Budgets
+SLAM 2600
+Introduction to Creative Industries
+SLAM 3030
+Marketing Strategies for Business and Creatives
+SLAM 3050
+Public Relations
+THEA 3110
+Text Analysis for Actors and Directors (*Must enroll in 3-credit DMP option)
+THEA 3210
+Directing I: The Foundation
+THEA 3340
+Production & Design I
+THEA 3370
+Editing with Final Cut Pro
+THEA 6110
+Acting For Other Media
+Capstone Courses
+6
+Select 2 of the following:
+DMPC 5510
+Advanced Digital Media Production I
+DMPC 5520
+Advanced Digital Media Production II
+DMPC 5550
+Advanced Digital Filmmaking I (Capstone I)
+Students must receive a C or better to advance to DMPC 5560 Advanced Digital Filmmaking II. Students must receive a B- or better to direct a film in DMPC 5560 Advanced Digital Filmmaking II.
+DMPC 5560
+Adv Digital Filmmaking II
+DMPC 5570
+Advanced Screenwriting (Feature Films) (*
+DMPC 3000
+substitutes for
+DMPC 5550
+in this case)
+Total Credit Hours
+30
+Field of Study:
+DMPC
+Catalog addenda note:
+Minor edits were made to this program on 6/12/2025.
+For more information, contact the
+School of Liberal Arts
+.

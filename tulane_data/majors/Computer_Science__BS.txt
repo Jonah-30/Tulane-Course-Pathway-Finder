@@ -1,0 +1,343 @@
+MAJOR: Computer Science, BS
+URL: https://catalog.tulane.edu/science-engineering/computer-science/computer-science-bs/
+
+=== PREREQUISITES FOUND ===
+  - Academic prerequisites
+
+=== FULL REQUIREMENTS TEXT ===
+Contact
+For contact information, please visit the
+School of Science & Engineering website
+The BS in Computer Science at Tulane provides students with core computer science expertise and prepares them for computer science and computing technology jobs in industry as well as for advanced academic training in graduate programs.
+More info about the Department of Computer Science and the program is available on the
+department webpage
+.
+Coursework
+The program comprises 17 courses. These requirements total 55-58 credit hours and are expected to be completed over eight semesters. The
+starting class for the program is
+CMPS 1500
+Intro to Computer Science I (4
+c.h.
+)
+.
+Curriculum
+Course List
+Course ID
+Title
+Credits
+Mathematics
+1
+Calculus
+4-6
+MATH 1210
+Calculus I
+OR
+MATH 1150
+Long Calculus I
+MATH 1160
+Long Calculus II
+OR
+MATH 1310
+Consolidated Calculus
+CMPS 2170
+Intro to Discrete Math
+same as MATH 2170
+3
+MATH 3090
+Linear Algebra
+it is recommended to complete MATH 3090 before starting CMPS electives.
+4
+Probability and Statistics
+2
+3-4
+Choose one
+Students who plan on taking courses in the fields of artificial intelligence and machine learning are encouraged to take MATH 1230 or MATH 3070
+MATH 1110
+Probability & Statistics I
+MATH 1230
+Statistics For Scientists
+MATH 3070
+Intro To Probability
+Required First and & Second-Year Courses
+CMPS 1500
+Intro to Computer Science I
+4
+CMPS 1600
+Intro to Computer Science II
+4
+CMPS 2200
+Intro to Algorithms
+4
+CMPS 2300
+Intro to Comp Sys & Networking
+4
+Systems Requirement
+3
+Choose one
+CMPS 3510
+Computer Organization
+CMPS 4750
+Computer Networks
+CMPS 4770
+Operating Systems
+ENGP 3140
+Digital Logic Systems
+AI/Algorithms Requirement
+3
+Choose one
+CMPS 3140
+Intro Artificial Intelligence
+CMPS 3240
+Intro to Machine Learning
+CMPS 3340
+Introduction to Deep Learning
+CMPS 3250
+Theory of Computation
+CMPS 3260
+Advanced Algorithms
+CMPS 3130
+Intro Computational Geometry
+CMPS 3210
+Algs Comp Struct Bio
+ENGP 3730
+Signals and Systems
+Electives
+15
+Select five CMPS electives at the 3000-level or above. A courses may not count towards both an area requirement (e.g, Systems or AI/Algoritms) and this elective requirement.
+ENGP 3140 Digital Logic Systems and ENGP/BMEN 3730 Signals and Systems may count as electives.
+Capstone
+3
+4
+Complete both
+Eligible students may complete an honors thesis in Computer Science to fulfill the capstone requirement. These students must arrange for their readers and a topic in the semester before starting their Honors Thesis. Successful completion of CMPS 4990 and CMPS 5000 will fulfill this requirement. Students are eligible if they have a cumulative GPA of 3.4 or above and a cumulative GPA across all courses counting towards their Computer Science major of 3.5 or above.
+CMPS 4010
+Capstone Project I
+CMPS 4020
+Capstone Project II
+Total Credit Hours
+55-58
+1
+T
+he mathematics requirements, four foundational core courses,
+and the Systems and AI/algorithms requirements
+should be completed before the student's senior/final year at Tulane.
+2
+Students who plan on taking courses within the fields of artificial intelligence or machine learning are encouraged to take
+MATH 1230
+Statistics for Scientists or
+MATH 3070
+Intro to Probability prior to doing so. Students are also encouraged to complete
+MATH 3090
+Linear Algebra before starting their electives, especially AI, ML, or graphics courses.
+3
+CMPS 4010
+Capstone Project I (2
+c.h.
+) and
+CMPS 4020
+Capstone Project II (2
+c.h.
+) are each offered once a year, in the fall and in the spring, respectively. The capstone is usually completed in the senior year.
+A two-semester Honors Thesis in Computer Science can be used in place of the Capstone Project requirement.
+Students embarking on a Computer Science Honors Thesis must have an overall cumulative GPA of 3.4 or higher and a cumulative GPA across all courses required for the computer science major of 3.5 or higher.
+Students wishing to complete an
+Honors
+Thesis should coordinate with their major advisor in their junior year. The Honors Thesis readers and topic must be decided before the senior year. For more information about the Honors Thesis, see the
+Honors Thesis webpage.
+Academic requirements
+I
+n order to graduate with the BS in computer science, the student should achieve a cumulative GPA of 2.8 or above in all courses that are required for the major. To ensure that they are on track to graduate, students enrolling in senior capstone should have a cumulative GPA across the five introductory core courses of 2.8 or above.
+Declaring the major
+T
+o declare the major in computer science, please complete and sign the major declaration form and email it to Ms. Debbie Ramil (
+dramil1@tulane.edu
+), who will assign you a major advisor, obtain the corresponding advisor's and the departmental chair's signatures for your form, and return the form to you. The completed form needs to be submitted to the Advising Office.
+When the major declaration form is processed, you will be added to the CS students mailing list. In order to enhance your CS education, you may also wish to join computing-focused student organizations, such as Cookies and Code, Women in Technology, and Girls Who Code. Their info is on
+WaveSync.
+Example course sequence and timeline
+4-year plan of study (recommended):
+Plan of Study Grid
+Year 1
+Fall
+Credit Hours
+CMPS 1500
+Intro to Computer Science I
+4
+MATH 1210
+Calculus I
+4
+MATH 3090
+Linear Algebra
+4
+Credit Hours
+12
+Spring
+CMPS 1600
+Intro to Computer Science II
+4
+CMPS 2170
+Intro to Discrete Math
+3
+MATH 1230
+Statistics For Scientists
+4
+Credit Hours
+11
+Year 2
+Fall
+CMPS 2200
+Intro to Algorithms
+4
+CMPS 2300
+Intro to Comp Sys & Networking
+4
+Credit Hours
+8
+Spring
+CMPS 3510
+Computer Organization (
+Systems Requirement
+)
+3
+CMPS 3140
+Intro Artificial Intelligence (
+AI/Algorithms Requirement
+)
+3
+Credit Hours
+6
+Year 3
+Fall
+CMPS elective 1
+3
+CMPS elective 2
+3
+Credit Hours
+6
+Spring
+CMPS elective 3
+3
+CMPS elective 4
+3
+Credit Hours
+6
+Year 4
+Fall
+CMPS elective 5
+3
+CMPS 4010
+Capstone Project I
+2
+Credit Hours
+5
+Spring
+CMPS 4020
+Capstone Project II
+2
+Credit Hours
+2
+Total Credit Hours
+56
+3-year plan of study
+While it is recommend that students complete the major over eight semesters, for transfer students or students in unusual situations, it is possible to complete the major beginning their studies in their 2
+nd
+year. Below is a suggested timeline. Students planning on completing the major on an accelerated timeline should reach out to their major advisor to review their plan.
+Plan of Study Grid
+Year 2
+Fall
+Credit Hours
+CMPS 1500
+Intro to Computer Science I
+4
+MATH 1210
+Calculus I
+4
+MATH 3090
+Linear Algebra
+4
+Credit Hours
+12
+Spring
+CMPS 1600
+Intro to Computer Science II
+4
+CMPS 2170
+Intro to Discrete Math
+3
+MATH 1230
+Statistics For Scientists
+4
+Credit Hours
+11
+Year 3
+Fall
+CMPS 2200
+Intro to Algorithms
+4
+CMPS 2300
+Intro to Comp Sys & Networking
+4
+CMPS elective 1
+3
+Credit Hours
+11
+Spring
+CMPS 3510
+Computer Organization (
+Systems Requirement
+)
+3
+CMPS 3140
+Intro Artificial Intelligence (
+AI/Algorithms Requirement
+)
+3
+CMPS elective 2
+3
+Credit Hours
+9
+Year 4
+Fall
+CMPS elective 3
+3
+CMPS elective 4
+3
+CMPS 4010
+Capstone Project I
+2
+Credit Hours
+8
+Spring
+CMPS elective 5
+3
+CMPS 4020
+Capstone Project II
+2
+Credit Hours
+5
+Total Credit Hours
+56
+Academic prerequisites
+T
+he program is open to all students willing to put time and work into becoming computing professionals. It does not assume that students have any previous computer science background. Many of our graduates have never programmed a computer before joining their first computer science class. The department holds several help sessions most days of the week to provide help to students when they have questions while working on computer science homework.
+Prior computing experience
+Advanced Placement (AP) computer science courses taken by a student in high school usually transfer toward overall college credit. (This is decided by the Tulane University Office of Undergraduate Admissions.) These courses do not have much overlap with our introductory courses and hence don’t count toward the major.
+If a student can demonstrate solid knowledge of the material covered in one of the required courses, after consultation with their faculty advisor, they can “skip” the required course and replace it with a CMPS elective of their choice instead. The minimum total number of completed hours for the BS in Computer Science should remain 44.
+Transfer coursework
+T
+ransfer of college-level courses follows the standard Tulane credit transfer procedure. There is no special department-level limit on the number of courses that can transfer; we adhere to the limit established by Newcomb-Tulane College. In order for a course from another university to count for the major, it should match a corresponding Tulane course in content and/or complexity; mode of delivery (online, in-person, hybrid) doesn’t affect this evaluation. Computing courses on subjects not offered by Tulane might be transferable. Students should confirm with the Department of Computer Science whether the course would transfer as a course for the major before registering.
+Study abroad
+With advanced planning, it may be possible to study abroad and complete the major. Students planning on studying abroad should reach our to their major advisor to ensure they will fulfill all requirements for the major. Before taking a foreign course, students should confirm with the Department of Computer Science whether that course can transfer and, if so, get it pre-approved. Their major advisor can guide them in this process.
+Programming languages
+W
+e often get asked what programming languages we teach. In fact, we teach principles, concepts, and problem-solving approaches rather than specific languages. In CMPS 1500, student learn Python. In CMPS 1600, students learn Java, C, and C++. The elective courses use a language that’s necessary to achieve the tasks of the course (e.g.
+Javascript
+, Scala, Ruby, etc.). Our successful students get used to learning new languages and are able to study the basics of any computer language on their own.
+Computer specifications
+A
+nother common area of inquiry is about buying a computer. It is helpful and convenient to have a laptop. We don’t have a computer lab, and students work on their own laptops to complete most programming assignments. Model and make don’t matter; any modern laptop with Wi-Fi and a battery works.
+Program String & Field of Study:
+SEBS_UG, CSBS
+For more information, contact the
+School of Science and Engineering
+.

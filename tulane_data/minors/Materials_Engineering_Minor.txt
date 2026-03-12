@@ -1,0 +1,104 @@
+MINOR: Materials Engineering Minor
+URL: https://catalog.tulane.edu/science-engineering/physics-engineering/materials-engineering-minor/
+
+=== PREREQUISITES FOUND ===
+  - Prerequisites
+
+=== FULL REQUIREMENTS TEXT ===
+The Materials Engineering minor complements various STEM and non-STEM majors at Tulane by offering a focused exploration of material systems and characterization. It includes fundamental courses in kinetics and thermodynamics, providing essential knowledge in the field while allowing further exploration via electives. This minor enhances career prospects across industries including electronics, energy, and manufacturing, preparing students for diverse engineering challenges.
+Course List
+Course ID
+Title
+Credits
+Prerequisites
+MATH 1210
+&
+MATH 1220
+Calculus I
+and Calculus II
+8
+PHYS 1310
+&
+PHYS 1320
+General Physics I
+and General Physics II
+8
+CHEM 1070
+&
+CHEM 1075
+General Chemistry I
+and General Chemistry Lab I
+4
+Total Credit Hours
+20
+Course List
+Course ID
+Title
+Credits
+Required Courses
+9
+CENG 3120
+Materials Science & Engr
+or
+ENGP 3120
+Materials Science and Engineering
+ENGP 3350
+Kinetics of Material Systems
+ENGP 3760
+Thermodynamics of Materials
+or
+CHEM 3120
+Physical Chemistry II
+Electives (Choose 3)
+9
+ENGP 3360
+Structure of Materials
+ENGP 3720
+Mechanic Behavior of Materials
+PHYS 3700
+Electronic Properties of Materials
+BMEN 3400
+Biomaterials & Tissue Engineering
+CENG 4890
+Polymer Engr & Science
+ENGP 3380
+Materials for Energy
+ENGP 3600
+Nanoscience & Technology
+ENGP 3620
+MicroFab and Nanotech
+PHYS 3210
+Molecular Biophysics & Polymer Physics
+ENGP 3370
+Processing of Biomaterials
+ENGP 3290
+Computational Materials Scienc
+CENG 4130
+Surf. & Colloid Phenomen
+ENGP 3560
+Photonic Materials & Devices
+CENG 4140
+Electrochemistry
+or
+CENG 6140
+Electrochemistry
+ENGP 3390
+Synthesis of Nanomaterials
+ENGP 2430
+Mechanics of Materials
+PHYS 2350
+Modern Physics I
+CHEM 3410
+Macromolecular, Supramolecular, and Nanochemistry
+EENS 3190
+Earth Materials
+ENGP 3570
+Semiconductor Devices
+Total Credit Hours
+18
+At least three courses (9 credits) counting toward the minor must not overlap with a student's major.
+Field of Study:
+EPMA
+For more information, contact the
+School of Science and Engineering
+.

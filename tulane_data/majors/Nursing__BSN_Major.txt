@@ -1,0 +1,113 @@
+MAJOR: Nursing, BSN Major
+URL: https://catalog.tulane.edu/medicine/program-of-nursing/nursing-bsn/
+
+=== FULL REQUIREMENTS TEXT ===
+Contact
+For contact information, please visit the
+School of Medicine website
+The Bachelor of Science in Nursing (BSN) degree program is a comprehensive, sequential four-semester, accelerated program. Nursing coursework consists of 60 credit hours including 42 didactic hours in an asynchronous, online format with some pre-scheduled, synchronous sessions throughout the course to allow for engagement and interaction with peers and faculty, and 18 credit hours (or 810 clock hours) of face to face clinical, lab and simulated experiences. The program prepares students to become highly competent and compassionate BSN-prepared registered nurses (RNs). Graduates will be prepared to successfully demonstrate competency on the National Council Licensure Examination (NCLEX-RN) and in direct patient care practice.
+The Bachelor of Science in Nursing degree is awarded following the successful completion of 120 credit hours, which includes up to 60 transfer credits and 60 credits taken in the Nursing Program. Students who are seeking a first or second bachelor’s degree may transfer up to 60 credits from an accredited institution to Tulane.
+Program Timeline
+Students will complete 60 credit hours of professional nursing coursework in 4 consecutive semesters (16-months) following a prescribed program of study with admissions starting in the Fall, Spring and Summer sessions. Students in the nursing major may not register for any other courses.
+Curriculum
+(example with Fall start)
+Plan of Study Grid
+Year 1
+Fall
+Credit Hours
+NRSG 3000
+Integrated Pathophysiology and Pharmacology for Nursing Practice: Part 1
+3
+NRSG 3100
+Wellness and Professional Success
+3
+NRSG 3200
+Foundations of Nursing Practice
+3
+NRSG 3205
+Foundations of Nursing Practice Practicum/Lab
+1
+NRSG 3210
+Adult Health Assessment
+3
+NRSG 3215
+Advanced Skills and Health Assessment Practicum/Lab
+1
+NRSG 3350
+Community Immersion Preparation
+1
+Credit Hours
+15
+Spring
+NRSG 3010
+Integrated Pathophysiology and Pharmacology for Nursing Practice: Part 2
+3
+NRSG 3400
+Adult Health Nursing
+4
+NRSG 3450
+Adult Health Practicum
+3
+NRSG 3500
+Psychiatric Mental Health Nursing
+3
+NRSG 3550
+Psychiatric Mental Health Practicum
+2
+Credit Hours
+15
+Summer Session
+NRSG 4000
+Nursing Research and Evidence-Based Practice
+3
+NRSG 4400
+Complex Adult Health Nursing
+4
+NRSG 4450
+Complex Adult Health Practicum
+2
+NRSG 4500
+Population and Community Health Nursing
+3
+NRSG 4550
+Community Immersion Practicum
+3
+Credit Hours
+15
+Year 2
+Fall
+NRSG 4600
+Pediatric Nursing (
+6 weeks
+)
+3
+NRSG 4650
+Pediatric Nursing Practicum (
+6 weeks
+)
+1
+NRSG 4700
+Maternal Newborn Nursing (
+6 weeks
+)
+3
+NRSG 4750
+Maternal Newborn Nursing Practicum  (
+6 weeks
+)
+1
+NRSG 4800
+Management and Leadership in Nursing
+3
+NRSG 4950
+Nursing Generalist Preceptorship & Seminar
+4
+Credit Hours
+15
+Total Credit Hours
+60
+Program String and Field of Study:
+PABSN_UG, NRSG
+For more information, contact the
+Nursing Program
+.

@@ -1,0 +1,11 @@
+MINOR: Philosophy Minor
+URL: https://catalog.tulane.edu/liberal-arts/philosophy/philosophy-minor/
+
+=== FULL REQUIREMENTS TEXT ===
+A minor in Philosophy consists of five Philosophy courses, three of which must be above the 1000 level.
+A minor in Philosophy consists of five philosophy courses, three of which must be above the 1000-level.
+Field of Study:
+PHIL
+For more information, contact the
+School of Liberal Arts
+.

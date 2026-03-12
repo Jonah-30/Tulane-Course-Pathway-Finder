@@ -1,0 +1,54 @@
+MINOR: Civil Engineering - Water and Environment Minor
+URL: https://catalog.tulane.edu/science-engineering/river-coastal-science-engineering/civil-engineering-water-and-environment-minor/
+
+=== FULL REQUIREMENTS TEXT ===
+The Minor in Civil Engineering -Water and Environment is available to students pursuing any undergraduate major in the School of Science and Engineering or in other Tulane colleges.  In particular, students majoring in another engineering discipline may find the RCSE minor attractive as an additional skill set for the job market. Students with a major in the physical or environmental sciences might have already covered the pre- or co-requisites for the RCSE minor, making it a relatively easy addition to their expertise while matriculating at Tulane. Students majoring in the environmental sciences (e.g., EEB or EES) could strengthen their undergraduate training in water-related topics. Outside of SSE, any student interested in a career linked to environmental planning, climate change adaptations, the resilience of human and natural systems, and water utilization could benefit from this training. This umbrella includes fields as diverse as law, business, public health, and social sciences. We foresee particular links for students in the (1) Environmental Studies major (School of Liberal Arts), where strengthening their science and engineering background in the water sector would be advantageous in many career tracks, and (2) in the School of Architecture and Built Environment, where a program in landscape architecture and water resources has been developed.
+The Minor in Civil Engineering - Water and Environment requires 18 credit hours from the following six courses:
+Course List
+Course ID
+Title
+Credits
+ENGP 1410
+Statics
+3
+RCSE 3010
+Water Resources Engineering  I (Or)
+3
+or
+BMEN 3440
+Biofluid Mechanics
+or
+CENG 2320
+Transport I: Fluids
+RCSE 4010
+Water Resources Engineering II (offered Fall semester)
+3
+RCSE 4030
+Water Resources Engineering III (offered Spring semester)
+3
+RCSE 6800
+Intro to River Science & Eng (offered Spring semester)
+3
+RCSE 6802
+Introduction to Coastal Science and Engineering (offered Fall semester)
+3
+Total Credit Hours
+18
+In summary, to complete the minor, students using
+RCSE 3010
+Water Resources Engineering  I (3 c.h.)
+or
+BMEN 3440
+Biofluid Mechanics (3 c.h.)
+for the fluid mechanics requirement will also need to successfully complete one semester each of calculus and physics. If using
+CENG 2320
+Transport I: Fluids (3 c.h.)
+, they will need three semesters of math (including 2 of calculus), one of physics, one of chemistry, and an additional CENG course (Thermodynamics). Likely the latter track to the RCSE minor will primarily be followed by students seeking a major in chemical engineering.
+As further requirements for the RCSE minor, students must maintain a 2.00 GPA in all minor courses. No courses can count toward a second minor in SSE or other Tulane schools. For more information, please contact the Department Chair at emeselhe@tulane.edu.
+Field of Study:
+CEWR
+Catalog addenda note:
+A minor edit to the name of this program was made on 7/28/2025.
+For more information, contact the
+School of Science and Engineering
+.

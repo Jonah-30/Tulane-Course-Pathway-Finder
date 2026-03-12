@@ -1,0 +1,53 @@
+MAJOR: Public Relations, B.A. Major
+URL: https://catalog.tulane.edu/professional-advancement/media-design/public-relations-ba/
+
+=== FULL REQUIREMENTS TEXT ===
+The mission of the Media + Design program is to provide students with the research and problem-solving skills necessary to create strategic, innovative, cultural and socially significant communication solutions. Students will understand how communication can create change through design, public relations and digital media marketing. Upon graduation, students of SoPA’s Media + Design program will be prepared to enter a highly competitive workforce in the industries of graphic design, interactive design, public relations, digital media marketing and advertising.
+The Media + Design Program’s Public Relations major will equip students with content-rich and highly competitive skills that are necessary in the public relations and strategic communication industries. In the program, students will demonstrate  mastery in the following: the fundamentals of the public relations process including research, planning, implementation and evaluation - the steps necessary for campaign development; writing for strategic communications adhering to the standards set forth by the industry; conducting primary and secondary research to aid in campaign development; understanding the legal, ethical and cross-cultural issues that pertain to public relations campaigns; and, measuring and analyzing the impact of strategic communication campaigns that include stakeholder-specific strategies and tactics (e.g. social media, earned media) through the use of various platforms and tools.
+Tulane’s School of Professional Advancement awards the Bachelor of Arts in Public Relations following the successful completion of 120 credits, including 36 credits in the major.
+Blocks
+Blocks notate the prescribed order of coursework. Courses within each block may be taken at the same time.
+Major Requirements
+Course List
+Course ID
+Title
+Credits
+Block 1
+9
+DDSN 1100
+Digital Design Foundations
+MDES 1120
+Media Writing
+MDES 2200
+Principles of Public Relations
+Block 2
+9
+MDES 2110
+Media Ethics & Equity
+MDES 2210
+Media Research
+MDES 2120
+Media Law
+Block 3
+9
+MDES 3210
+Digital Public Relations
+MDES 3220
+PR Writing
+MDES 3240
+PR Case Studies
+Block 4
+9
+MDES 3230
+Media Relations
+MDES 4150
+Capstone: Media & Design
+MDES 4210
+Portfolio & Professional Practices
+Total Credit Hours
+36
+Program String and Field of Study:
+PAUBA_UG, MDPR
+For more information, contact the
+School of Professional Advancement
+.

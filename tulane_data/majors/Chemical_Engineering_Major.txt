@@ -1,0 +1,459 @@
+MAJOR: Chemical Engineering Major
+URL: https://catalog.tulane.edu/science-engineering/chemical-biomolecular-engineering/chemical-engineering-major/
+
+=== FULL REQUIREMENTS TEXT ===
+Chemical engineering combines principles of chemistry, physics, biology, and mathematics to design processes that economically and sustainably meet human needs for energy, food, healthcare, and technology. Chemical engineers are not only leaders in traditional chemical, oil and gas, and brewing industries, but they are also at the forefront of advancements in pharmaceutical discovery and production, renewable energy, biotechnology, and environmental protection. The Chemical Engineering curriculum includes basic coursework in math, physics, and chemistry, as well as advanced courses related to the design of industrial processes including fluid dynamics, thermodynamics, heat and mass transfer, computer methods, reactor design, and automatic process control. All students participate in an internship through the core curriculum. Students can readily tailor the major to their specific interests through choice of appropriate electives; synergistic focus areas include pre-medicine, biotechnology, materials science, energy, and environmental studies.
+Tulane's Chemical Engineering program is accredited by the Engineering Accreditation Commission of
+ABET
+, under the commission’s
+General Criteria and Program Criteria for Chemical, Biochemical, Biomolecular, and Similarly Named Engineering Programs.
+Core Chemical Engineering Curriculum
+The Chemical Engineering (CENG) program of study includes a solid foundation in math and science, major-specific core material in chemical and biomolecular engineering, plus exposure to the humanities and social sciences. In order to graduate with a B.S. degree in Chemical Engineering, students must fulfill the following requirements:
+Major Specific
+:
+The engineering courses, including the core chemical engineering courses*, engineering and technical electives, and the advanced specialization electives. *A minimum grade of C- must be earned in each CENG required core course in order to receive credit for the Bachelor’s degree.
+Newcomb-Tulane College (NTC) Core Curriculum:
+Courses that ensure attainment of basic competencies in writing, scientific inquiry, cultural knowledge, and interdisciplinary scholarship.
+Public Service:
+To meet this requirement for graduation, all students must complete two semesters of service. One of these semesters must be at the 2000 level or above. The first experience should be completed by the 2
+nd
+semester of the sophomore year.
+More information on the service learning requirements can be found
+here
+. The CBE department offers courses which satisfy both service learning requirements (CENG 1180/1891 and CENG 3240/3890).
+Certain modifications to the freshmen program may be made by:
+Achievement of advanced standing through Advanced Placement Tests offered by the CEEB
+Use of advanced placement tests in mathematics and chemistry offered on campus during Orientation Week
+Submission of transcripts from other universities for equivalent courses taken prior to entering Tulane
+Major Advising
+New majors are assigned an individual faculty advisor based on their expected graduation year, and they should consult with him or her regularly for class and career planning. Faculty members can be reached by email or in person to set up meeting times.
+Class of 2026 -
+Dr. Russell
+,
+Dr. Albert
+Class of 2027 -
+Dr. Godbey
+,
+Dr. Russell
+Class of 2028 -
+Dr. Howsmon
+,
+Dr. Sandoval
+All students, prior to declaring the major -
+Dr. Russell
+Special advising for transfer students, Tulane/Xavier 3-2 program, study abroad –
+Dr. Russell
+Requirements
+See recommended course sequence below for semester-by-semester course planning.
+Foundations Requirements:
+Course List
+Course ID
+Title
+Credits
+General Chemistry Requirement
+CHEM 1070
+&
+CHEM 1075
+General Chemistry I
+and General Chemistry Lab I
+4
+CHEM 1080
+&
+CHEM 1085
+General Chemistry II
+and General Chemistry Lab II
+4
+Organic Chemistry Requirement
+CHEM 2410
+&
+CHEM 2415
+Organic Chemistry I
+and Organic Chemistry Lab I
+4
+or
+CHEM 2430
+&
+CHEM 2435
+Organic Chemistry I: Deep-learning
+and Organic Chemistry I Laboratory: Deep-learning
+CHEM 2420
+&
+CHEM 2425
+Organic Chemistry II
+and Organic Chemistry Lab II
+4
+or
+CHEM 2440
+&
+CHEM 2445
+Organic Chemistry II: Deep-learning
+and Organic Chemistry Laboratory II: Deep-learning
+Physics Requirement
+PHYS 1310
+&
+PHYS 1311
+General Physics I
+and General Physics I Lab
+4
+PHYS 1320
+&
+PHYS 1321
+General Physics II
+and General Physics II Lab
+4
+Mathematics Requirement
+MATH 1210
+Calculus I
+4
+MATH 1220
+Calculus II
+4
+or
+MATH 1310
+Consolidated Calculus
+MATH 2210
+Calculus III
+4
+MATH 2240
+Intro To Applied Math
+4
+Total Credit Hours
+40
+Major Specific Requirements:
+Course List
+Course ID
+Title
+Credits
+Core Chemical Engineering Courses
+1
+CENG 2110
+Matl & Energy Balances
+3
+CENG 2120
+Thermodynamics I
+3
+CENG 2320
+Transport I: Fluids
+3
+CENG 2500
+Intro To Biotechnology
+3
+CENG 3110
+Thermodynamics II
+3
+CENG 3230
+Numr Meth For Chem Eng
+3
+CENG 3240
+Unit Operations Lab
+4
+CENG 3340
+Separation Processes
+3
+CENG 3390
+Transport II: Heat and Mass
+3
+CENG 4150
+Reactor Design
+3
+CENG 4310
+Chemical Process Design
+3
+CENG 4500
+Chemical Process Control
+3
+CENG 4750
+Practice School
+6
+Engineering Elective
+**
+3
+Advanced Engineering Elective
+**
+3
+Advanced Specialization Elective 1
+**
+3
+Advanced Specialization Elective 2
+**
+3
+Advanced Technical Elective
+**
+3
+Total Credit Hours
+58
+1
+A minimum grade of C- must be earned in each CENG required
+core
+course in order to receive credit for the Bachelor’s degree. A 2.000 minimum grade point average in the major and cumulative degree is required for graduation.
+Recommended Course Sequence
+Plan of Study Grid
+Year 1
+Fall
+Credit Hours
+CHEM 1070
+&
+CHEM 1075
+General Chemistry I
+and General Chemistry Lab I
+4
+MATH 1210
+Calculus I
+4
+PHYS 1310
+&
+PHYS 1311
+General Physics I
+and General Physics I Lab
+4
+TIDES
+1
+ENGL 1010
+Writing
+4
+Credit Hours
+17
+Spring
+CHEM 1080
+&
+CHEM 1085
+General Chemistry II
+and General Chemistry Lab II
+4
+PHYS 1320
+&
+PHYS 1321
+General Physics II
+and General Physics II Lab
+4
+MATH 1220
+Calculus II
+4
+CENG 1180
+Impacts in Chem Engineering (
+*recommended course, not required
+)
+1
+CENG 1890
+Service Learning (
+*recommended tier-1 service learning
+)
+0-1
+NTC Core
+1
+3
+Credit Hours
+16-17
+Year 2
+Fall
+CENG 2110
+Matl & Energy Balances
+3
+CENG 2500
+Intro To Biotechnology
+3
+CHEM 2410
+&
+CHEM 2415
+Organic Chemistry I
+and Organic Chemistry Lab I
+4
+MATH 2210
+Calculus III
+4
+Engineering Elective
+CENG 2230 recommended
+3
+Credit Hours
+17
+Spring
+CENG 2120
+Thermodynamics I
+3
+CENG 2320
+Transport I: Fluids
+3
+CHEM 2420
+&
+CHEM 2425
+Organic Chemistry II
+and Organic Chemistry Lab II
+4
+MATH 2240
+or
+MATH 4240
+Intro To Applied Math
+or Ordinary Differential Equations
+4
+Open class if needed to satisfy NTC requirements
+1
+1-3
+Credit Hours
+15-17
+Year 3
+Fall
+CENG 3110
+Thermodynamics II
+3
+CENG 3390
+Transport II: Heat and Mass
+3
+CENG 3230
+Numr Meth For Chem Eng
+3
+Advanced Specialization Elective I
+**
+3
+NTC Core
+3
+Credit Hours
+15
+Spring
+CENG 3240
+Unit Operations Lab
+4
+CENG 3340
+Separation Processes
+3
+CENG 4150
+Reactor Design
+3
+Service Learning II
+CENG 3890 recommended
+0-1
+NTC Core
+3
+Credit Hours
+13-14
+Year 4
+Fall
+CENG 4310
+Chemical Process Design
+3
+CENG 4750
+Practice School
+**Practice School is ONLY offered in the FALL of senior year.
+6
+Advanced Specialization Elective 2
+**
+3
+NTC Core
+3
+Credit Hours
+15
+Spring
+CENG 4500
+Chemical Process Control
+3
+Advanced Engineering Elective
+**
+3
+Advanced Technical Elective
+**
+3
+NTC Core
+3
+NTC Core or elective
+Minimum of 120 credit hours required in the degree
+0-3
+Credit Hours
+12-15
+Total Credit Hours
+120-127
+1
+NTC Core requirements include one course that focuses on Race and Inclusion and one course that focuses on Global Perspectives. These requirements can be satisfied with courses that also satisfy Proficiency or Distribution requirements; therefore, up to 7 (and a minimum of 5) classes are required to complete the NTC Core requirements for Chemical Engineering students. Additionally, a minimum of 120-credit hours is required for all Tulane degrees.
+**
+CENG Elective Requirements
+In general, a Technical Elective is a course offered by the School of Science and Engineering. An Engineering Elective is any non-required CENG course, a course offered by one of the engineering departments (BMEN, ENGP, RCSE), or a course offered by Computer Science (COSC and CMPS). Advanced Specialization Electives are typically selected from the following list:
+Any 3000-level or above CENG, BMEN, CHEM, CMPS, COSC, ENGP, MATH, MPEN, PHYS, or RCSE
+CELL 3030
+Molecular Biology (3 c.h.)
+CELL 3750
+Cell Biology (3 c.h.)
+(pre-req: CELL 3030)
+EENS 3150
+Intro to GIS (4 c.h.)
+EENS 4030
+Advanced GIS (3 c.h.)
+EENS 4250
+Isotopes in The Environm (3 c.h.)
+EENS 4360
+Environmental Geochemistry (3 c.h.)
+(pre-req:
+EENS 2110
+How to Build a Habitable Planet (4 c.h.)
+)
+ENRG 4100
+Energy Markets, Economics, and Policy (3 c.h.)
+ENRG 4110
+Energy Financial Modeling (3 c.h.)
+ENRG 4200
+Energy Fundamentals and Trading (3 c.h.)
+SPHU 4160
+Introduction to Statistical Packages (3 c.h.)
+(pre-req:
+SPHU 2160
+Biostatistics in Public Health (3 c.h.)
+)
+SPHU 4410
+Data and Information Management in Public Health (3 c.h.)
+Any Substitutions must follow the Petition for Degree Plan Modification process.
+The Engineering Electives must satisfy a minimum of 6-credit hours with at least 3-credit hours at the 3000-level or above. The Advanced Specialization Electives must satisfy a minimum of 6-credit hours at the 3000-level or above. The Advanced Technical Elective must satisfy a minimum of 3-credit hours at the 3000-level or above. Additionally, courses containing significant overlap with core curriculum are excluded, and courses for non-science majors do not fulfill the elective requirements. Note that a maximum of 3-credit hours can be satisfied from Professional Development Courses; note a maximum of 6-credit hours can be satisfied by Independent Study/Honor’s Thesis work.
+Students are encouraged to inquire with their CBE Advisor or the Undergraduate Committee Chair if they are unsure about a potential elective.
+Courses Excluded from satisfying the Engineering Elective, Advanced Specialization Elective, and Technical
+Elective requirements:
+Seminar Courses including
+BMEN 6710
+Departmental Seminar (1 c.h.)
+,
+CENG 6000
+Chemical Eng. Seminar (0 c.h.)
+,
+NSCI 6030
+Brain Institute Seminar (0 or 1 c.h.)
+,
+PSYC 3450
+Positive Psychology (3 c.h.)
+, and
+PSYC 3460
+The Self in Social Psychology (3 c.h.)
+; , and the following courses
+MATH 3310
+Scientific Computing I (3 c.h.)
+(excluded due to overlap with
+CENG 3230
+Numr Meth For Chem Eng (3 c.h.)
+:),
+MATH 2240
+Intro To Applied Math (4 c.h.)
+:, and any course of lower technical rigor than the benchmark freshman-level course in the providing department.
+**Students may take courses from a biochemistry series offered by either Chemical and Biomolecular Engineering (
+CENG 4450
+Applied Biochemistry I (3 c.h.)
+and
+CENG 4460
+Applied Biochemistry II (3 c.h.)
+) or Chemistry (
+CHEM 3830
+Intro To Biochemistry (3 c.h.)
+and
+CHEM 3840
+Intermediate Biochem (3 c.h.)
+) to satisfy one or both courses of the Advanced Specialization Elective requirement. Once a biochemistry course has been taken and a grade of D- or better has been granted, the parallel course from the other department cannot be taken to satisfy any elective requirement for the Chemical Engineering degree. As an example, a student who withdraws from
+CHEM 3830
+Intro To Biochemistry (3 c.h.)
+can take
+CENG 4450
+Applied Biochemistry I (3 c.h.)
+to satisfy the first Advanced Specialization requirement. If the student then goes on to earn credit for both
+CENG 4460
+Applied Biochemistry II (3 c.h.)
+and
+CHEM 3840
+Intermediate Biochem (3 c.h.)
+, one of the courses can be used for elective credit but the other ‘biochemistry II’ course will not be counted as an elective, technical or otherwise.
+Program String and Field of Study:
+SEBSE_UG, CHE
+For more information, contact the
+School of Science and Engineering
+.

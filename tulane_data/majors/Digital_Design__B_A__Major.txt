@@ -1,0 +1,111 @@
+MAJOR: Digital Design, B.A. Major
+URL: https://catalog.tulane.edu/professional-advancement/media-design/digital-design-ba/
+
+=== FULL REQUIREMENTS TEXT ===
+The mission of the Media + Design program is to provide students with the research and problem-solving skills necessary to create strategic, innovative, cultural and socially significant communication solutions. Students will understand how communication can create change through design, public relations and digital media marketing. Upon graduation, students of SoPA’s Media + Design program will be prepared to enter a highly competitive workforce in the industries of graphic design, interactive design, public relations, digital media marketing and advertising.
+The Tulane School of Professional Advancement Awards the B.A. in Digital Design following the completion of 120 credits, which includes 42 credits in the major. All students in the digital design major take core courses in design foundations and then declare a
+career track
+to specialize in either Graphic Design or Interactive UX/UI Design.
+Blocks
+Blocks notate the prescribed order of coursework. Courses within each block may be taken at the same time.
+Reviews
+Students in the Digital Design program will undergo two reviews during their matriculation: Lower Level Review and Upper Level Review. Students must complete both reviews at the appropriate time as it relates to their specific major/concentration and matriculation.
+A score of 70 or higher constitutes passing the review, which means that the student is ready to proceed in the program. Students who do not pass may resubmit their portfolios the following semester incorporating feedback from their rubric.
+Both reviews are to ensure mastery of skills and are intended to ensure that students will succeed in upper-level coursework.
+Graphic Design Track
+Course List
+Course ID
+Title
+Credits
+Block 1
+9
+DDSN 1100
+Digital Design Foundations
+DDSN 1101
+Digital Imaging
+DDSN 1102
+Digital Illustration
+Block 2
+9
+DDSN 1400
+Typography Studio I
+DDSN 1401
+History of Graphic Design
+DDSN 2000
+Branding & Semiotics
+Lower Level Review
+Block 3
+18
+DDSN 2101
+Foundations of Interactive Design
+DDSN 2103
+Intro to Copywriting
+DDSN 2400
+Digital Page Layout
+DDSN 2401
+Design Studio I
+DDSN 2602
+Motion Design Studio 1
+DDSN 3400
+Design Studio II
+Upper Level Review
+Block 4
+6
+DDSN 4100
+Portfolio & Prof Practices
+MDES 4150
+Capstone: Media & Design
+Total Credit Hours
+42
+Interactive UX/UI Track
+Course List
+Course ID
+Title
+Credits
+Block 1
+12
+DDSN 1100
+Digital Design Foundations
+DDSN 1101
+Digital Imaging
+DDSN 1102
+Digital Illustration
+DDSN 1400
+Typography Studio I
+Block 2
+6
+DDSN 1401
+History of Graphic Design
+DDSN 2101
+Foundations of Interactive Design
+Lower Level Review
+Block 3
+6
+DDSN 2000
+Branding & Semiotics
+DDSN 2100
+UX Research & Strategy
+Block 4
+12
+DDSN 2600
+Interactive Design Studio I
+DDSN 2601
+Digital Storytelling
+DDSN 2602
+Motion Design Studio 1
+DDSN 3602
+Interactive Design Studio II
+Upper Level Review
+Block 5
+6
+DDSN 4100
+Portfolio & Prof Practices
+MDES 4150
+Capstone: Media & Design
+Total Credit Hours
+42
+Program String and Field of Study:
+PABA_UG, DDDG (Graphic Design track) or DDID (Interactive UX/UI Design)
+For more information, contact the
+School of Professional Advancement
+.

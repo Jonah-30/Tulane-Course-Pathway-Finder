@@ -1,0 +1,101 @@
+MINOR: Artificial Intelligence Minor
+URL: https://catalog.tulane.edu/science-engineering/computer-science/artificial-intelligence-minor/
+
+=== PREREQUISITES FOUND ===
+  - Academic Prerequisites
+  - The program is open to all students willing to put time and work into becoming computing professionals. Students must complete the three prerequisite courses before declaring the minor. The prerequisite and minor sequence
+  - he Minor in Artificial Intelligence can be accomplished in a minimum of 5 semesters. This accounts for the time it takes to complete the prerequisites.
+
+=== FULL REQUIREMENTS TEXT ===
+The Minor in Artificial Intelligence (AI) at Tulane University provides students with both the core algorithmic and computer science foundations as well as expertise in the rapidly advancing field of Artificial Intelligence, preparing them for jobs in this industry, as well as for advanced academic training in graduate programs.
+More info about the Department of Computer Science and the program is available on the
+department webpage
+.
+The Minor in Artificial Intelligence (AI) comprises of 5 courses, requiring 16 credits.
+Course List
+Course ID
+Title
+Credits
+Algorithms
+4
+CMPS 2200
+Intro to Algorithms
+4
+AI/ML Foundations
+6
+CMPS 3140
+Intro Artificial Intelligence
+3
+CMPS 3240
+Intro to Machine Learning
+3
+AI/ML Electives (choose two)
+6
+CMPS 3160
+Introduction to Data Science
+CMPS 3340
+Introduction to Deep Learning
+CMPS 3360
+Data Visualization
+CMPS 3370
+Digital Image Processing
+CMPS 4150
+Multi-agent Systems
+CMPS 4330
+Human-Computer Interaction
+CMPS 4730
+Natural Language Processing
+CMPS 4740
+Reinforcement Learning
+CMPS 4830
+Computer Vision
+EENS 3600
+Climate Data and Analysis
+ENGP 3730
+Signals and Systems
+CENG 4680
+Data Science and Machine Learning for Scientific Research
+Academic Prerequisites
+CMPS 1500
+Intro to CS I (4 c.h.) or
+CMPS 1100
+Foundations of Programming (3 c.h.)
+CMPS 1600
+Intro to CS II (4 c.h.)
+CMPS/MATH 2170
+Discrete Math (3 c.h.)
+The program is open to all students willing to put time and work into becoming computing professionals. Students must complete the three prerequisite courses before declaring the minor. The prerequisite and minor sequence
+does
+not assume that students have any previous computer science background. Many of our students have never programmed a computer before joining their first computer science class. The department holds several hours of help sessions most days of the week to support students as they have questions while working through computer science homework.
+Academic Requirements
+T
+o graduate with the Minor in Artificial Intelligence, students must achieve a cumulative GPA of 2.5 or above in the five courses that are required for the minor.
+Timeline to Complete the Minor
+T
+he Minor in Artificial Intelligence can be accomplished in a minimum of 5 semesters. This accounts for the time it takes to complete the prerequisites.
+Earning the Minor for CS Majors
+St
+udents may receive the BS in Computer Science or the Coordinate Major in Computer Science along with the Minor in Artificial Intelligence. University rules state that only one course may overlap in these cases (CMPS 2200, Intro to Algorithms). Students wishing to complete a CS Major and this Minor in AI both would be required to take 4 (12 CR) extra
+non-overlapping
+courses, bringing the total course for the BS in CS, e.g., to 70 CR. Note that for students pursuing the BS in Computer Science, this means that they may not fulfill the AI/Algorithms requirement using any course which they use to fulfill the requirements of the Minor in AI.
+Declaring the Minor in Artificial Intelligence
+T
+o declare the
+minor
+in computer science, please complete and sign the
+minor
+declaration form and email it to Ms. Debbie Ramil (
+dramil1@tulane.edu
+), who will assign you a faculty
+advisor, obtain the corresponding advisor's and the departmental chair's signatures for your form, and return the form to you. The completed form needs to be submitted to the Advising Office.  When the
+minor
+declaration form is processed, you will be added to the CS students mailing list.
+In order to
+enhance your CS education, you may also wish to join computing-focused student organizations, such as Cookies and Code, Women in Technology, and Girls Who Code. Their info is on
+WaveSync
+.
+Field of Study:
+CSAI
+For more information, contact the
+School of Science and Engineering
+.

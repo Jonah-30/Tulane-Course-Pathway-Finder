@@ -1,0 +1,394 @@
+MAJOR: Cell and Molecular Biology Major
+URL: https://catalog.tulane.edu/science-engineering/cell-molecular-biology/cell-molecular-biology-major/
+
+=== FULL REQUIREMENTS TEXT ===
+The major in Cell and Molecular Biology is focused on the mechanistic study of the life of the cell at the molecular level. The curriculum is interdisciplinary and includes courses in physics, chemistry, and genetics in addition to molecular and cellular biology. Training in these areas is beneficial for careers in biological research, a number of high tech industries, medicine, and allied health professions. This challenging major requires creativity, rigor, and the ability to analyze, distill, and interpret data. A love of living systems and a level of comfort with complexity are both essential.
+Due to the extensive overlap in curricula, Cell and Molecular Biology majors cannot double major in Biological Chemistry. Students can double major in Cell and Molecular Biology and Neuroscience, but there are additional requirements that must be met beyond those requirements for most double major combinations.
+The Cell and Molecular Biology major is comprised of the following:
+Course List
+Course ID
+Title
+Credits
+Chemistry Component
+CHEM 1070
+&
+CHEM 1075
+General Chemistry I
+and General Chemistry Lab I
+4
+CHEM 1080
+&
+CHEM 1085
+General Chemistry II
+and General Chemistry Lab II
+4
+CHEM 2410
+&
+CHEM 2415
+Organic Chemistry I
+and Organic Chemistry Lab I
+4
+or
+CHEM 2430
+&
+CHEM 2435
+Organic Chemistry I: Deep-learning
+and Organic Chemistry I Laboratory: Deep-learning
+CHEM 2420
+&
+CHEM 2425
+Organic Chemistry II
+and Organic Chemistry Lab II
+4
+or
+CHEM 2440
+&
+CHEM 2445
+Organic Chemistry II: Deep-learning
+and Organic Chemistry Laboratory II: Deep-learning
+Math Component
+MATH 1230
+Statistics For Scientists
+4
+Select one of the following calculus options:
+4-6
+MATH 1210
+Calculus I
+MATH 1310
+Consolidated Calculus
+MATH 1150
+&
+MATH 1160
+Long Calculus I
+and Long Calculus II
+Physics Component
+Select one of the following:
+8
+PHYS 1210
+&
+PHYS 1220
+Introductory Physics I
+and Introductory Physics II
+PHYS 1310
+&
+PHYS 1320
+General Physics I
+and General Physics II
+Cell and Molecular Biology Core Component
+CELL 1010
+Intro to Cell & Molec Biology
+3
+CELL 2115
+General Biology Lab
+1
+CELL 2050
+Genetics
+3
+CELL 3030
+Molecular Biology
+3
+CELL 3750
+Cell Biology
+3
+CELL 3755
+Cell Biology Laboratory
+1
+or
+CELL 3035
+Molecular Biology Lab
+Additional upper-level CELL lecture course
+1, *
+3-4
+Biochemistry Component
+Select one of the following:
+3-6
+CELL 4010
+Cellular Biochemistry
+CELL 4020
+Integrative Fundamentals of Biochemistry
+*
+CHEM 3830
+&
+CHEM 3840
+Intro To Biochemistry
+and Intermediate Biochem
+CENG 4450
+&
+CENG 4460
+Applied Biochemistry I
+and Applied Biochemistry II
+Lab-Oriented Electives
+Select two of the following:
+2-11
+CELL 3035
+Molecular Biology Lab
+or
+CELL 3755
+Cell Biology Laboratory
+CELL 3210
+&
+CELL 3215
+Physiology
+and Physiology Lab
+CELL 3310
+&
+CELL 3315
+Cellular Neuroscience
+and Cellular Neuroscience Lab
+CELL 4110
+&
+CELL 4111
+Human Histology
+and Human Histology Lab
+CELL 4220
+&
+CELL 4225
+Microbiology
+and Microbiology Laboratory
+CELL 4430
+Introductory Bioinformatics
+CELL 4910
+Independent Study
+or
+CELL 5000
+Honors Thesis
+(Only one elective requirement can be satisfied by independent research.)
+*
+CHEM 3110
+&
+CHEM 3115
+Physical Chemistry I
+and Physical Chemistry Lab I
+CHEM 3120
+&
+CHEM 3125
+Physical Chemistry II
+and Physical Chemistry Lab II
+CHEM 3835
+Intro to Biochem Lab
+NSCI 4060
+&
+NSCI 4065
+Behavioral Endocrinology
+and Behavioral Endocrinology Lab
+NSCI 4510
+&
+NSCI 4515
+Biological Psychology
+and Biological Psychology Lab
+NSCI 4530
+&
+NSCI 4535
+Psychopharmacology
+and Psychopharmacology Lab
+Lecture Elective
+Select one of the following:
+3-4
+Additional upper-level CELL lecture course
+1, *
+Upper-level course from another department relevant to this major
+2
+EBIO 1010
+&
+EBIO 1015
+Diversity of Life
+and Diversity of Life Lab
+Capstone Component
+See Below for More Information
+Total Credit Hours
+57-73
+1
+Additional upper-level CELL lecture course:
+CELL 3050
+Foundations of Pharmacology (3 c.h.)
+,
+CELL 3210
+Physiology (3 c.h.)
+,
+CELL 3230
+Virology (3 c.h.)
+,
+CELL 3310
+Cellular Neuroscience (3 c.h.)
+,
+CELL 3320
+Systems Neuroscience (3 c.h.)
+,
+CELL 3400
+Regenerative Biology (3 c.h.)
+,
+CELL 3560
+Pathophysiology (3 c.h.)
+,
+CELL 4110
+Human Histology (4 c.h.)
+,
+CELL 4130
+Embryology (3 c.h.)
+,
+CELL 4160
+Developmental Biology (3 c.h.)
+,
+CELL 4180
+Biomedical Research in Animals (3 c.h.)
+,
+CELL 4200
+General Endocrinology (3 c.h.)
+,
+CELL 4220
+Microbiology (3 c.h.)
+,
+CELL 4250
+Principles In Immunology (3 c.h.)
+,
+CELL 4260
+Princ of Biomed Write Capstone (3 c.h.)
+,
+CELL 4340
+Neurobiology of Disease (3 c.h.)
+,
+CELL 4350
+Developmental Neurobiol (3 c.h.)
+,
+CELL 4370
+Molecular Neurobiology (3 c.h.)
+,
+CELL 4430
+Introductory Bioinformatics (3 c.h.)
+,
+CELL 4440
+Advanced Molecular Biology (3 c.h.)
+,
+CELL 4450
+Genome Biology (3 c.h.)
+,
+CELL 4500
+Adv Molec Neurobiology (3 c.h.)
+,
+CELL 4660
+Special Topics
+,
+CELL 4710
+Molecular Biology of Cancer (3 c.h.)
+,
+CELL 4730
+Neurodevelopment and Disease (3 c.h.)
+, or
+CELL 4780
+Developmental Genetics (3 c.h.)
+2
+Upper-level course from another department relevant to this major:
+BMEN 3400
+Biomaterials & Tissue Engineering (3 c.h.)
+,
+CHEM 3110
+Physical Chemistry I (3 c.h.)
+,
+CHEM 3120
+Physical Chemistry II (3 c.h.)
+,
+CENG 4400
+Intro. To Gene Therapy (3 c.h.)
+,
+EBIO 4230
+Molecular Evolution and Ecology (4 c.h.)
+,
+EBIO 4460
+Biodiversity and Environmental Informatics (3 c.h.)
+,
+NSCI 3300
+Brain and Behavior (3 c.h.)
+,
+NSCI 3310
+Cellular Neuroscience (3 c.h.)
+,
+NSCI 3320
+Systems Neuroscience (3 c.h.)
+,
+NSCI 4060
+Behavioral Endocrinology (3 c.h.)
+,
+NSCI 4200
+General Endocrinology (3 c.h.)
+,
+NSCI 4340
+Neurobiology of Disease (3 c.h.)
+,
+NSCI 4350
+Developmental Neurobiology (3 c.h.)
+,
+NSCI 4370
+Molecular Neurobiology (3 c.h.)
+,
+NSCI 4450
+Genome Biology (3 c.h.)
+,
+NSCI 4500
+Advanced Molecular Neurobiology (3 c.h.)
+,
+NSCI 4510
+Biological Psychology (3 c.h.)
+,
+NSCI 4530
+Psychopharmacology (3 c.h.)
+,
+NSCI 4730
+Neurodevelopment and Disease (3 c.h.)
+,
+PHYS 3210
+Molecular Biophysics & Polymer Physics (3 c.h.)
+,
+PSYC 3300
+Brain and Behavior (3 c.h.)
+,
+PSYC 4060
+Behavioral Endocrinology (3 c.h.)
+,
+PSYC 4510
+Biological Psychology (3 c.h.)
+,
+PSYC 4530
+Psychopharmacology (3 c.h.)
+, or other appropriate course formally approved by the CMB Curriculum Committee.
+*
+This may be used to satisfy the capstone component. Please see the Capstone Component description.
+Capstone Component
+Additionally, students must complete a capstone experience in the major. Choice of capstone will likely also satisfy one of the other requirements for the major listed above, such as a lecture or lab elective. Options include
+CELL 3230
+Virology (3 c.h.)
+,
+CELL 3400
+Regenerative Biology (3 c.h.)
+,
+CELL 4020
+Integrative Fundamentals of Biochemistry (3 c.h.)
+,
+CELL 4250
+Principles In Immunology (3 c.h.)
+,
+CELL 4260
+Princ of Biomed Write Capstone (3 c.h.)
+,
+CELL 4440
+Advanced Molecular Biology (3 c.h.)
+,
+CELL 4450
+Genome Biology (3 c.h.)
+,
+CELL 4710
+Molecular Biology of Cancer (3 c.h.)
+,
+CELL 5110
+Capstone Component:  CELL 4910 (0 c.h.)
+,
+CELL 5111
+Capstone Component:  CELL 4920 (0 c.h.)
+, and
+CELL 5000
+Honors Thesis (4 c.h.)
+.
+Program String and Field of Study:
+SEBS_UG, CELL
+For more information, contact the
+School of Science and Engineering - Department of Cell and Molecular Biology
+.

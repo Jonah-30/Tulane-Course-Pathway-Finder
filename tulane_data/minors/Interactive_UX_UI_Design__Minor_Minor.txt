@@ -1,0 +1,35 @@
+MINOR: Interactive UX/UI Design, Minor Minor
+URL: https://catalog.tulane.edu/professional-advancement/media-design/interactive-design-minor/
+
+=== FULL REQUIREMENTS TEXT ===
+The mission of the Media + Design program is to provide students with the research and problem-solving skills necessary to create strategic, innovative, cultural and socially significant communication solutions. Students will understand how communication can create change through design, public relations and digital media marketing.
+The Interactive Design minor introduces students to the ever-evolving field of interactive design. The minor consists of 18 credit hours, which offer students a foundation in digital design and introduction to interactive design.
+Course List
+Course ID
+Title
+Credits
+DDSN 1100
+Digital Design Foundations
+3
+DDSN 1101
+Digital Imaging
+3
+DDSN 1102
+Digital Illustration
+3
+DDSN 1400
+Typography Studio I
+3
+DDSN 2100
+UX Research & Strategy
+3
+DDSN 2101
+Foundations of Interactive Design
+3
+Total Credit Hours
+18
+Field of Study:
+DDID
+For more information, contact the
+School of Professional Advancement
+.

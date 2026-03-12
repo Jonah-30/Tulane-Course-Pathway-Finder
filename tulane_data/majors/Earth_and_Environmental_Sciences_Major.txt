@@ -1,0 +1,187 @@
+MAJOR: Earth and Environmental Sciences Major
+URL: https://catalog.tulane.edu/science-engineering/earth-environmental-sciences/earth-and-environmental-sciences-major/
+
+=== FULL REQUIREMENTS TEXT ===
+Earth and Environmental Sciences is a broad interdisciplinary field dedicated to understanding the origin and evolution of the Earth. This discipline includes the study of climate, water, landscapes, earthquakes, volcanoes, prehistoric life, planets, natural resources, and the impact of humans on the environment. To help solve some of the greatest challenges facing human society, students majoring in Earth and Environmental Sciences will gain knowledge of Earth’s materials and the physical, chemical, and biological processes that have operated throughout Earth’s history. The curriculum also emphasizes active and collaborative learning and provides ample opportunities for research, field trips, and study abroad coursework around the world. Students graduating with a degree in Earth and Environmental Sciences will be prepared for graduate or professional programs or direct entry into the workforce. Earth and Environmental Sciences majors may go on to careers in industry, technology, consulting, nonprofits, government, education, and law.
+Course requirements for the Earth and Environmental Sciences major are outlined below:
+Course List
+Course ID
+Title
+Credits
+One Introductory Course (choose one introductory EENS course with lab of the following)
+4
+EENS 1110
+&
+EENS 1115
+Planet Earth
+and Planet Earth Lab
+EENS 1300
+&
+EENS 1305
+Earth as a Living Planet
+and Earth as a Living Planet Lab
+EENS 2220
+&
+EENS 2225
+Earth & Life Through Time
+and Earth & Life Through Time Lab
+Core Courses
+16
+EENS 2090
+&
+EENS 2091
+Shaping the Earth's Surface
+and Shaping the Earth's Surface Laboratory
+EENS 2100
+&
+EENS 2101
+Dynamic Planets
+and Dynamic Planets Lab
+EENS 2110
+&
+EENS 2111
+How to Build a Habitable Planet
+and How to Build a Habitable Planet Laboratory
+EENS 2120
+&
+EENS 2121
+Climate and Extinction
+and Climate and Extinction lab
+Six Electives
+18-24
+Any EENS course 2000-level or above will count as an elective
+1
+Three electives must be at the 3000-level or above
+Only two courses outside of the Earth & Environmental Sciences department may count towards the major.
+2
+No more than two GIS certificate courses may count as electives towards the major in EENS.
+Required Courses Outside EENS
+Two Mathematics Courses
+8
+MATH 1210
+Calculus I
+3
+MATH 1220
+Calculus II
+3
+or
+MATH 1230
+Statistics For Scientists
+Three Sciences Courses
+12
+CHEM 1070
+&
+CHEM 1075
+General Chemistry I
+and General Chemistry Lab I
+PHYS 1310
+&
+PHYS 1311
+General Physics I
+and General Physics I Lab
+or
+PHYS 1210
+&
+PHYS 1211
+Introductory Physics I
+and Introductory Physics I Lab
+EBIO 1010
+&
+EBIO 1015
+Diversity of Life
+and Diversity of Life Lab
+One Senior Experiential Learning Course
+3-7
+Field-based course
+4
+EENS 4560
+&
+SRVC 4890
+Public Service Internship
+and Public Service Internship
+EENS 4570
+Internship
+EENS 4990
+&
+EENS 5000
+Honors Thesis
+and Honors Thesis
+Total Credit Hours
+61-71
+1
+Students should consult with their major advisor to review available electives.
+2
+Two of the following courses may also count as electives:
+COLQ 4120
+The Grand Canyon (3,4 c.h.)
+,
+ANTH 3560
+Environmental Archaeology (3 c.h.)
+,
+EBIO 2040
+Conservation Biology (3 c.h.)
+,
+EBIO 2580
+Urban Ecology (3 c.h.)
+,
+EBIO 2600
+Natural Resource Conservation (3 c.h.)
+,
+EBIO 3040
+General Ecology (3 c.h.)
+,
+EVST 3310
+Approaches to Environ Studies (3 c.h.)
+,
+CHEM 2500
+Environmental Chemistry (3 c.h.)
+,
+CMPS 1100
+Foundations of Programming (3 c.h.)
+,
+CMPS 1500
+Intro to Computer Science I (4 c.h.)
+,
+CMPS 2170
+Intro to Discrete Math (3 c.h.)
+,
+COMM 3510
+Environmental Comm (3 c.h.)
+,
+MATH 2210
+Calculus III (4 c.h.)
+,
+MATH 2240
+Intro To Applied Math (4 c.h.)
+,
+MATH 3070
+Intro To Probability (3 c.h.)
+,
+MATH 3090
+Linear Algebra (4 c.h.)
+.
+3
+MATH 1150
+Long Calculus I (3 c.h.)
+and
+MATH 1160
+Long Calculus II (3 c.h.)
+(Long Calculus sequence) may be taken instead of
+MATH 1210
+Calculus I (4 c.h.)
+to complete the Calculus 1 requirement.
+MATH 1310
+Consolidated Calculus (4 c.h.)
+may be taken instead of
+MATH 1210
+Calculus I (4 c.h.)
+/
+MATH 1220
+Calculus II (4 c.h.)
+4
+Field-based courses include a range of options, typically transferred from another accredited university-level program. These include geoscience field camp courses, applied field-based geophysics courses, and coastal and/or marine science courses. Department approval is required.
+Program String and Field of Study:
+SEBS_UG, EENS
+For more information, contact the
+School of Science and Engineering
+.
